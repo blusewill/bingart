@@ -6,14 +6,14 @@ with open('README.md', 'r', encoding='utf-8') as f:
 setup(
     name='bingart',
     version='1.1.2',
-    author='Maehdakvan',
-    author_email='visitanimation@google.com',
+    author='Maehdakvan (Edit by blusewill)',
+    author_email='blusewillstudio@protonmail.com',
     description='bingart is an unofficial API wrapper for Bing Image & Video Creator (based on DALL-E 3).',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/DedInc/bingart',
+    url='https://github.com/blusewill/bingart',
     project_urls={
-        'Bug Tracker': 'https://github.com/DedInc/bingart/issues',
+        'Bug Tracker': 'https://github.com/blusewill/bingart/issues',
     },
     classifiers=[
         'Programming Language :: Python :: 3',
